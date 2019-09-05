@@ -1,5 +1,6 @@
-highstock-demo
-===============
+## This repository is no longer maintained.
+
+## highstock-demo
 
 Examples for the [Meteor-Highstock](https://github.com/jhuenges/meteor-highstock/) package by jhuenges.
 
